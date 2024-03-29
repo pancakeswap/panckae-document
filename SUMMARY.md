@@ -127,7 +127,6 @@
       * [永续合约 V1 FAQ](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v1/yong-xu-he-yue-v1-faq.md)
   * [🎮 游戏平台](chan-pin/you-xi-ping-tai/README.md)
     * [📒 品牌工具套件](chan-pin/you-xi-ping-tai/pin-pai-gong-ju-tao-jian.md)
-    * [📒 品牌工具套件](chan-pin/you-xi-ping-tai/pin-pai-gong-ju-tao-jian-1.md)
     * [🎓 Pancake Mayer](chan-pin/you-xi-ping-tai/pancake-shi-chang.md)
     * [🛡️ Pancake Protectors 游戏](chan-pin/you-xi-ping-tai/pancake-protectors-you-xi/README.md)
       * [FAQ](chan-pin/you-xi-ping-tai/pancake-protectors-you-xi/faq.md)

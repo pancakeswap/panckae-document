@@ -140,3 +140,22 @@ VECakeOwner.setWhitelist(bool _status = true)
 https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11
 ```
 
+#### Why there are multiple APRs?
+
+Locking CAKE to get veCAKE provides a number of great benefits around the suite of products built by PancakeSwap. Benefits and incentives come in different forms and from different sources. Therefore, there are multiple APRs.&#x20;
+
+You can earn all of them concurrently therefore the combined APR will be the sum of all the APRs.
+
+Please note that many other benefits from veCAKE can not be quantified in the format of APRs, such as [Farm Yield Booster bCAKE](../yield-farming/bcake/), or [IFO iCAKE](../ifo-initial-farm-offering/icake.md). Be sure to check those out too.
+
+#### What is veCAKE Pool APR?
+
+This is the incentive coming from CAKE emissions, with its rate controlled by the veCAKE Pool voting gauge.
+
+To increase the emission to this gauge, check out [Gauge Voting](gauges-voting/).
+
+#### What is Revenue Sharing APR?
+
+This is the incentive coming from protocol revenue sharing, coming from swap fees collected in DEX products.
+
+Check out [Revenue Sharing](../revenue-sharing/) for more info.&#x20;

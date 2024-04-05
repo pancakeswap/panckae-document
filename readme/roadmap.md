@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](../.gitbook/assets/roadmap-header.png)
 
-_Updated on Jan 3, 2024_
+_Updated on April 5, 2024_
 
 ### Finally, it's a roadmap not a to-do list.
 
@@ -16,21 +16,20 @@ Pivoting is a way of life.
 
 That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-<figure><img src="../.gitbook/assets/png-146.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Q2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
 {% endhint %}
 
-### Cooking in Q1
+### Cooking in Q2
 
-* DEX Enhancement
-* veCAKE Enhancement
-* Multichain Perpetual
-* Multichain Prediction
+* v4
+* DEX: New Trading Venue
+* Crosschain veCAKE
+* Web3 Quest Platform
+* TWAP/Limit orders + Fee switch
 * Multichain Simple Staking
-* Gaming Marketplace Expansion
-* Universal Router
 
 ### Done
 
@@ -57,6 +56,8 @@ Due to considerations of security and confidentiality, some items are not includ
 * Expansion to opBNB - Swap
 * Perpetuals v2  to Arbitrum and BNB Chain
 * Perps v2 Expansion to Base, and opBNB
+* DEX Enhancement: v4 whitepaper
+* Multichain Perpetual
 
 
 
@@ -99,6 +100,7 @@ Due to considerations of security and confidentiality, some items are not includ
 * Pottery\
   Lottery by staking\
   New Pottery cohort every month
+* Multichain Prediction
 
 #### NFT
 
@@ -128,6 +130,8 @@ Due to considerations of security and confidentiality, some items are not includ
 * Website Revamp
 * Game Expansion
 * Notification Services Integrations
+* Affiliates Initiative
+* Hashdit Risk Scanner
 
 
 

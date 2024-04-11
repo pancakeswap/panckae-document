@@ -1,10 +1,22 @@
-# Limit Orders FAQ
+# FAQ
 
 {% hint style="info" %}
 Use the sidebar to quickly find the answers to your questions!
 {% endhint %}
 
-## General Questions
+## Limit Orders and TWAP
+
+Please refer to FAQ provided by Orbs:
+
+[https://www.orbs.com/dtwap-and-dlimit-faq/](https://www.orbs.com/dtwap-and-dlimit-faq/)
+
+## Limit V2 (Deprecated)
+
+### Why I can’t find my orders?
+
+V2 limit orders is now deprecated, please access using this link:
+
+[https://pancakeswap.finance/limit-orders](https://pancakeswap.finance/limit-orders)
 
 ### Why was my order not executed?
 

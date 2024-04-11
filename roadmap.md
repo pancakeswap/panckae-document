@@ -6,7 +6,7 @@ description: '"别把它称作路线图"'
 
 <figure><img src=".gitbook/assets/Roadmap01.webp" alt=""><figcaption></figcaption></figure>
 
-更新于 2024 年 1 月 3 日。
+更新于 2024 年 4 月 5 日。
 
 ### 这是一个路线图，而不是待办事项列表
 
@@ -14,9 +14,9 @@ description: '"别把它称作路线图"'
 
 保持随机应变是一种很好的生活方式。&#x20;
 
-这意味着我们不会公开承诺具体的时间表，因此我们可以根据市场变化和开发者资源来组织我们的开发重点。
+这代表着我们不会公开承诺一个具体的时间表，因此，我们可以根据市场变化和开发者资源来组织我们的开发重点。
 
-<figure><img src=".gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Q2 roadmap 01.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 出于安全和保密的考虑，某些项目未包含在 "烹饪中" 部分中。
@@ -24,17 +24,14 @@ description: '"别把它称作路线图"'
 
 
 
-### Q1 烹饪中
+### Q2 烹饪中
 
-&#x20;v 多链永续 多链预测 多链简单赚币 游戏市场扩展 通用路由器
-
-* DEX 优化
-* veCAKE 优化
-* 多链永续合约
-* 多链预测 &#x20;
-* 多链简单赚币
-* 游戏平台扩展
-* 共通路由（Universal Router）
+* v4
+* DEX：增加新的交易功能（New Trading Venue）
+* veCAKE 功能跨链
+* Web 3 任务平台（Web3 Quest Platform）
+* TWAP/限价单+费用开关 （Limit orders + Fee switch）
+* 多链赚币
 
 
 
@@ -63,6 +60,10 @@ description: '"别把它称作路线图"'
 * 扩展到  opBNB - 兑换功能
 * 永续合约 v2 部署到 Arbitrum 和 BNB 链
 * 永续合约 v2 扩展到 Base 和 opBNB
+* DEX 优化：v4 白皮书
+* 多链永续合约
+
+
 
 #### 赚取
 
@@ -97,15 +98,16 @@ description: '"别把它称作路线图"'
 * 预测 v0.2 \
   BNB 和 CAKE 双币种 \
   使用 Chainlink 价格图表和 Chainlink Keepers
-* 团队竞赛 (将交易大战商品化)
+* 团队竞赛（交易大赛商品化）
 * 糖浆彩票 \
   通过质押来参与彩票 \
   每个月一个新的糖浆彩票组
+* 多链预测
 
 #### NFT
 
 * NFT 市场第 1 阶段和第 2 阶段（购买和出售列入白名单的 NFT 收藏）
-* 可定制的用户资料&#x20;
+* 可自定义的用户个人资料
 * NFT 空投
 * Pancake 小队生成的 NFT 收藏系列
 * Mobox 游戏 NFT 整合
@@ -117,8 +119,8 @@ description: '"别把它称作路线图"'
 * IFO CAKE 池和 IFO 3.0&#x20;
 * IFO &#x20;
   * 私有销售体现小队 NFT 的效用
-  * cIFO, 私有销售体现 Pancake 个人资料积分的效用
-  * 代币解锁机制
+  * cIFO，私有销售体现 Pancake 个人资料积分的效用
+  * 代币线性解锁机制（Vesting）
   * 集成了 iCAKE
 * Binance App 中的 PCS 小程序
 * Aptos 上的第一个 IFO
@@ -129,4 +131,6 @@ description: '"别把它称作路线图"'
 * 联盟计划
 * 网站改版
 * 游戏平台扩展
-* 通知服务整合
+* 通知功能整合
+* Affiliates Initiative
+* Hashdit 风险扫描器

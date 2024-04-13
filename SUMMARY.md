@@ -94,7 +94,7 @@
     * [EVM 链与 Aptos 之间跨链](chan-pin/kua-lian/evm-lian-yu-aptos-zhi-jian-kua-lian.md)
     * [跨链 FAQ](chan-pin/kua-lian/faq.md)
     * [Wormhole Bridge Guide](chan-pin/kua-lian/wormhole-bridge-guide.md)
-    * [Wormhole Bridge FAQ](chan-pin/kua-lian/wormhole-bridge-faq.md)
+    * [虫洞跨链桥 FAQ](chan-pin/kua-lian/chong-dong-kua-lian-qiao-faq.md)
   * [🤝 简单赚币](chan-pin/jian-dan-zhuan-bi/README.md)
     * [如何使用简单赚币](chan-pin/jian-dan-zhuan-bi/ru-he-can-yu-jian-dan-zhuan-bi.md)
     * [简单赚币 FAQ](chan-pin/jian-dan-zhuan-bi/faq.md)

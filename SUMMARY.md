@@ -41,7 +41,7 @@
     * [智能路由 (V2)](products/pancakeswap-exchange/zhi-neng-lu-you-v2/README.md)
       * [如何通过智能路由进行交易？](products/pancakeswap-exchange/zhi-neng-lu-you-v2/ru-he-tong-guo-zhi-neng-lu-you-jin-hang-jiao-yi.md)
     * [Zap- 一键添加流动性 (V2)](products/pancakeswap-exchange/zap-yi-jian-tian-jia-liu-dong-xing-v2.md)
-    * [🔄 稳定币兑换](products/pancakeswap-exchange/wen-ding-bi-dui-huan/README.md)
+    * [稳定币兑换](products/pancakeswap-exchange/wen-ding-bi-dui-huan/README.md)
       * [如何使用稳定币兑换](chan-pin/pancakeswap-exchange/wen-ding-bi-dui-huan/ru-he-shi-yong-wen-ding-bi-dui-huan.md)
     * [限價單交易 & 时间加权平均价格](chan-pin/pancakeswap-exchange/xian-jia-dan-jiao-yi-shi-jian-jia-quan-ping-jun-jia-ge/README.md)
       * [How to use Limit Orders](chan-pin/pancakeswap-exchange/xian-jia-dan-jiao-yi-shi-jian-jia-quan-ping-jun-jia-ge/how-to-use-limit-orders.md)

@@ -52,11 +52,11 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Ruby - QA
 
-🐰 Chef Omelette - Smart Contract Dev
+🐰 Chef Omelette - Solidity Dev
 
-🐰 Chef Paddington - Smart Contract Dev
+🐰 Chef Paddington - Solidity Dev
 
-🐰 Chef Mist - Smart Contract Dev
+🐰 Chef Mist - Solidity Dev
 
 🐰 Chef Rei - Security
 

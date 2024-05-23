@@ -54,7 +54,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Omelette - Solidity Dev
 
-🐰 Chef Paddington - Solidity Dev
+🐰 Chef Burger - Solidity Dev
 
 🐰 Chef Mist - Solidity Dev
 

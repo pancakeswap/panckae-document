@@ -16,11 +16,11 @@ To take part in an IFO, you'll need a PancakeSwap profile. Having a profile prot
 \
 To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.pancakeswap.finance/get-started/profile-guide).
 
-### Lock CAKE in the CAKE Syrup Pool to get iCAKE
+### Stake CAKE as veCAKE to get iCAKE
 
 iCAKE determines the maximum CAKE commit limit in the PancakeSwap IFO public sales. For example, if you have 200 iCAKE, you can commit 200 CAKE in any upcoming IFO public sales. Your iCAKE number is based on the veCAKE balance at the end of each IFO, multiplied by a predefined ratio.
 
-To get iCAKE, go to the [CAKE Staking page](https://pancakeswap.finance/cake-staking), and follow the instructions to set up a CAKE staking position.
+To get veCAKE, go to the [CAKE Staking page](https://pancakeswap.finance/cake-staking), and follow the instructions to set up a CAKE staking position.
 
 To learn more about iCAKE and how iCAKE is calculated, check out the doc [here](icake.md).&#x20;
 

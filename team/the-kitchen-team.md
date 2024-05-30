@@ -28,25 +28,25 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Seaweed - Data Analytics
 
-🐰 Chef Jojo - Frontend Dev ([Twitter](https://twitter.com/0xchefjojo))
+🐰 Chef Jojo - Dev Lead ([Twitter](https://twitter.com/0xchefjojo))
 
 🐰 Chef Momota - Frontend Dev ([Twitter](https://twitter.com/chefmomota))
 
 🐰 Chef Yogi- Frontend Dev
 
-🐰 Chef Jackson - Frontend Dev ([Twitter](https://twitter.com/0xchefjackson))
-
-🐰 Chef Philip - Frontend Dev
+🐰 Chef Jackson - Frontend Lead ([Twitter](https://twitter.com/0xchefjackson))
 
 🐰 Chef Bingbong - Frontend Dev
 
 🐰 Chef Cannoli - Backend Dev
 
+🐰 Chef Sanji - Backend dev
+
 🐕 Chef Snoopy - Solidity Dev
 
 🐰 Chef Cupcake - Solidity Dev
 
-🐰 Chef Huan - Solidity Dev
+🐰 Chef Huan - Backend lead
 
 🐰 Chef Rabbid - Solidity Dev
 

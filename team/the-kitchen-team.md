@@ -18,7 +18,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Maroon - Business Dev
 
-🐰 Chef Lava - Busniess Dev
+🐰 Chef Baby - Business Dev
 
 🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef\_mustard))
 

@@ -242,7 +242,7 @@
 * [Team](team/README.md)
   * [The Kitchen Team](team/the-kitchen-team.md)
   * [Become a Chef](team/become-a-chef/README.md)
-    * [Developer Relations and Community Manager](team/become-a-chef/developer-relations-and-community-manager.md)
+    * [Developer Relations Manager](team/become-a-chef/developer-relations-manager.md)
     * [Solidity Engineer (Contract)](team/become-a-chef/solidity-engineer-contract.md)
     * [Frontend Engineer (Contract)](team/become-a-chef/frontend-engineer-contract.md)
     * [Product Designer (UX/I)](team/become-a-chef/product-designer-ux-i.md)

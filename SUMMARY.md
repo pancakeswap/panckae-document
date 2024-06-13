@@ -72,6 +72,7 @@
     * [Bribes (Vote Incentives)](products/vecake/bribes-vote-incentives.md)
     * [veCAKE Managers](products/vecake/vecake-managers.md)
     * [Incentivizing Liquidity](products/vecake/incentivizing-liquidity.md)
+    * [Bridge your veCAKE](products/vecake/bridge-your-vecake.md)
     * [FAQ](products/vecake/faq.md)
   * [🍯 Syrup Pools - Stake CAKE](products/syrup-pool/README.md)
     * [Syrup Pools](products/syrup-pool/syrup-pool-guide/README.md)

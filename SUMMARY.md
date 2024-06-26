@@ -140,6 +140,7 @@
     * [FAQ](products/trading-reward/faq.md)
   * [🔮 Prediction](products/prediction/README.md)
     * [How to Use Prediction](products/prediction/prediction-guide.md)
+    * [AI Prediction](products/prediction/ai-prediction.md)
     * [Prediction FAQ](products/prediction/prediction-faq.md)
     * [Prediction Troubleshooting](products/prediction/prediction-troubleshooting.md)
   * [🎟️ Lottery](products/lottery/README.md)

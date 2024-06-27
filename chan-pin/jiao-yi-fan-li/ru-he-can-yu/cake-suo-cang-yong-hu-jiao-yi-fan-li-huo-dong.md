@@ -39,7 +39,7 @@ CAKE 锁仓用户交易返利活动（CAKE Stakers campaign）现已更名为 ve
 
 检查您的地址是否符合条件的最简单方法是，访问[交易返利](https://pancakeswap.finance/trading-reward)页面并连接您的钱包来查看，并且该页面有指导教程如何让您的地址有资格从交易中获得 CAKE 返利。&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (387).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -71,7 +71,7 @@ CAKE 锁仓用户交易返利活动（CAKE Stakers campaign）现已更名为 ve
 * 您能从活动中获得的最大 CAKE 数量--由快照时的 veCAKE 持量决定（在超过限额时才可见）&#x20;
 * 您在所有符合条件的代币对中的交易量
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 此外，您可以查看 "返利明细（Rewards Breakdown）" 部分，以详细了解您交易的每一个代币对。
 
@@ -79,7 +79,7 @@ CAKE 锁仓用户交易返利活动（CAKE Stakers campaign）现已更名为 ve
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

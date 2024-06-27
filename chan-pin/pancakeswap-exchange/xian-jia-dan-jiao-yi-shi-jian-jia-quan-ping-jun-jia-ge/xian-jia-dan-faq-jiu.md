@@ -2,13 +2,25 @@
 description: FAQ
 ---
 
-# 限价单 FAQ
+# 限价单 FAQ（旧）
 
 {% hint style="info" %}
 使用侧边导航栏快速找到问题的答案
 {% endhint %}
 
-## 常见问题
+## 限价单和 TWAP 相关：
+
+请参考 Orbs 提供的 FAQ:
+
+[https://www.orbs.com/dtwap-and-dlimit-faq/](https://www.orbs.com/dtwap-and-dlimit-faq/)
+
+### 限价单 V2 （已弃用）
+
+### 我找不到我的订单?
+
+限价单 V2 已经弃用，请通过以下链接查看:
+
+[https://pancakeswap.finance/limit-orders](https://pancakeswap.finance/limit-orders)
 
 ### 为什么我的订单没有被执行？
 

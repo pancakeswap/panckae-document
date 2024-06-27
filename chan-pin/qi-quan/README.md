@@ -6,10 +6,10 @@
 [qi-quan-ru-men.md](qi-quan-ru-men.md)
 {% endcontent-ref %}
 
-{% content-ref url="clamm-qi-quan.md" %}
-[clamm-qi-quan.md](clamm-qi-quan.md)
+{% content-ref url="../options/clamm-options.md" %}
+[clamm-options.md](../options/clamm-options.md)
 {% endcontent-ref %}
 
-{% content-ref url="qi-quan-faq.md" %}
-[qi-quan-faq.md](qi-quan-faq.md)
+{% content-ref url="../options/options-faq.md" %}
+[options-faq.md](../options/options-faq.md)
 {% endcontent-ref %}

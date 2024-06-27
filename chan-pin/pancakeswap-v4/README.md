@@ -1,9 +1,3 @@
----
-description: >-
-  欢迎来到 PancakeSwap v4，DeFi 的又一次进化！PancakeSwap v4 为开发者、交易者、流动性提供者和更广泛的 DeFi
-  社区带来了无数创新。
----
-
 # PancakeSwap v4
 
 _如果您是开发人员或正在查找详细的技术文档，请参阅本文档_ [_https://developer.pancakeswap.finance/_](https://developer.pancakeswap.finance/)
@@ -24,7 +18,7 @@ PancakeSwap v4 中的 Hooks 是外部部署的合约，作为可定制的附加�
 * **高级交易工具**： Hooks 的引入使限价订单、止盈订单、TWAMM（时间加权平均做市）等高级交易工具以及交易费用返还等其他奖励计划成为可能。&#x20;
 * **开发人员的收入流**： 开发人员可通过 Hooks 费用获得稳定的收入流，从而激励创新。
 
-<figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
 
 阅读我们的[博客文章](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)来了解 v4 对于开发者，交易者，流动性提供者以及 Defi 协议的好处。
 

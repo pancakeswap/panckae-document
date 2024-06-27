@@ -60,7 +60,7 @@ PancakeSwap 现今提供一个二合一 CAKE 糖浆池，用户可自由选择�
 * CAKE 奖励将在仓位到期后，与您的本金一同释放。
 * &#x20;一旦在锁仓质押糖浆池中质押，您在锁仓期限结束之前都无法解除质押。&#x20;
 * 🎁 享受以下好处：
-  * 🗳️ 投票权加成：[vCAKE](../../voting/vcake.md)
+  * 🗳️ 投票权加成：[vCAKE](../../../zhi-li-dai-bi-jing-ji/zhi-li-xin/vcake.md)
   * 🚜 农场收益助推：[bCAKE](../../yield-farming/bcake/)
   * 🛍️ IFO 公开销售参与资格：[iCAKE](../../ifo-initial-farm-offering/icake.md)
   * ✨ 优先享受某些新功能，以及特殊活动的待遇

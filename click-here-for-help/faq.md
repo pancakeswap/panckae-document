@@ -91,7 +91,7 @@ PancakeSwap 糖浆池上新相当频繁，在上线前我们均会发布公告�
 
 ## 如何投票？
 
-请查看 [如何投票](../products/voting/) 了解更多。
+请查看 [如何投票](../zhi-li-dai-bi-jing-ji/voting.md) 了解更多。
 
 ## CAKE 的总量是多少？
 

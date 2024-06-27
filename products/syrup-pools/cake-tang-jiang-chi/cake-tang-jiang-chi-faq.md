@@ -50,7 +50,7 @@ CAKE 已锁定 = 初始锁定 CAKE 数额 + 奖励的CAKE&#x20;
 
 ### 如果我的 CAKE 被锁定在锁仓质押池中，我还可以投票吗？&#x20;
 
-可以的。详情请参阅 [vCAKE](../../voting/vcake.md) 部分。
+可以的。详情请参阅 [vCAKE](../../../zhi-li-dai-bi-jing-ji/zhi-li-xin/vcake.md) 部分。
 
 ### 我可以同时使用 CAKE 灵活质押池和锁仓质押池吗？&#x20;
 

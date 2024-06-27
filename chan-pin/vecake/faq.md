@@ -26,7 +26,7 @@ veCAKE 是根据锁定的 CAKE 数量和剩余锁仓时长，实时生成的数�
 
 veCAKE 数值将会根据剩余锁仓时长，线性递减至 0。因此，当越接近解锁时间，您的持有数值就会减少。veCAKE 数值的计算方法如下：
 
-```
+```javascript
 您的锁仓数量 // 锁仓的 CAKE 的数量
 现在的时间 // 现在的时间
 锁仓到期时间 // 解锁时间
@@ -36,7 +36,7 @@ veCAKE 数值将会根据剩余锁仓时长，线性递减至 0。因此，当�
 veCAKE = 您的锁仓数量 * (剩余锁仓时长 / 最大锁仓时间)
 ```
 
-### 如何增加我的 veCAKE？&#x20;
+### 如何增加我的 veCAKE 数字？&#x20;
 
 只要您拥有有效的 veCAKE 仓位，您就可以添加更多 CAKE 或延长锁仓时长，以提高您的 veCAKE 数值。&#x20;
 
@@ -60,7 +60,7 @@ veCAKE = 您的锁仓数量 * (剩余锁仓时长 / 最大锁仓时间)
 
 要锁仓 CAKE 并享受其好处，请前往 veCAKE 页面进行锁仓。&#x20;
 
-### 为什么我不能迁移？&#x20;
+### 为什么我不能操作迁移？&#x20;
 
 从 CAKE 糖浆池迁移到 veCAKE 需要您有一个有效的锁仓仓位。如果您的 CAKE 糖浆池锁仓仓位已经解锁，只需提取这些 CAKE 并转到 veCAKE 页面创建一个新的锁仓仓位即可。&#x20;
 
@@ -80,19 +80,94 @@ veCAKE = 您的锁仓数量 * (剩余锁仓时长 / 最大锁仓时间)
 
 ### iCAKE、bCAKE、vCAKE 和 rCAKE 会发生什么变化？
 
-**对于 iCAKE：**&#x20;
+**iCAKE 产品：**&#x20;
 
-厨房正在努力升级 iCAKE 以支援全新的 veCAKE。我们希望所有未来的 IFO 都能使用 veCAKE 作为 iCAKE 的升级版本。
+IFO iCAKE 现已升级至支持 veCAKE。查看此文档：
 
-**对于 bCAKE：**&#x20;
+{% content-ref url="../../products/ifo-initial-farm-offering/icake.md" %}
+[icake.md](../../products/ifo-initial-farm-offering/icake.md)
+{% endcontent-ref %}
 
-农场助推 bCAKE 也将升级为支援 veCAKE。用户很快就能使用 veCAKE 助推农场，不仅可以助推 V3，还能助推其他类型锁定在 PancakeSwap 的流动性资金。&#x20;
+**bCAKE 产品：**&#x20;
 
-**对于 vCAKE**：
+农场助推器 bCAKE 现已升级为支持 veCAKE。查看此文档：
 
-快照投票权（snapshot voting power）即将升级为仅使用 veCAKE 数值。&#x20;
+{% content-ref url="../../products/yield-farming/bcake/" %}
+[bcake](../../products/yield-farming/bcake/)
+{% endcontent-ref %}
 
-**对于 rCAKE：**&#x20;
+**vCAKE 产品**：
 
-所有 veCAKE 持有者（无论是原生的还是迁移的）都将自动加入新的收入分成池。收入分成将根据现有时间表发放。旧的收入分成池将停止使用，用户可前往 "锁仓CAKE 福利" 页面领取待领奖励。
+投票功能 vCAKE 现已升级为支持 veCAKE。查看此文档：
 
+{% content-ref url="../../zhi-li-dai-bi-jing-ji/zhi-li-xin/ru-he-tou-piao/" %}
+[ru-he-tou-piao](../../zhi-li-dai-bi-jing-ji/zhi-li-xin/ru-he-tou-piao/)
+{% endcontent-ref %}
+
+**rCAKE 产品：**&#x20;
+
+所有 veCAKE 持有者（包括原生或迁移）将自动参与进新的收入分成池。收入分成按照既定时间表进行分配。旧的收入分成池将停止使用，用户可前往 "veCAKE 福利" 部分领取待领奖励。查看此文档：
+
+{% content-ref url="../shou-ru-fen-cheng/" %}
+[shou-ru-fen-cheng](../shou-ru-fen-cheng/)
+{% endcontent-ref %}
+
+### 多重签名钱包可用于与 veCAKE 合约交互吗？
+
+可以。
+
+不过，veCAKE 质押合约中针对未列入白名单的地址实施了 `noContract` 修改器。要启用质押或从 CAKE 糖浆池迁移。所有基于合约的多重签名钱包都必须执行一次性的自赋白名单操作。
+
+如要加入白名单，请在以下任一页面操作：&#x20;
+
+* [https://pancakeswap.finance/cake-staking](https://pancakeswap.finance/cake-staking)
+* [https://pancakeswap.finance/gauge-voting](https://pancakeswap.finance/gauge-voting)
+* [https://pancakeswap.finance/pools](https://pancakeswap.finance/pools)
+
+一个提示将会弹出。点击 "白名单"，然后多重签名钱包中继续操作上链交易。&#x20;
+
+之后将向 veCAKE 的所有者发送一个 tx，这是一个具有 "无需许可即可写入" 功能的合约，透过它，任何合约即可执行自赋白名单操作。
+
+如果提示没有弹出，请按照以下指示，在 [BscScan](https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11) 上与合约交互并上链：
+
+```
+// call:
+VECakeOwner.setWhitelist(bool _status = true)
+
+// VECakeOwner address:
+https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11
+```
+
+#### **为什么我看到了很多个 APR ? 他们代表了什么？**
+
+锁定 CAKE 以获得 veCAKE，可围绕 PancakeSwap 构建的产品套件获得多项巨大优惠。优惠和奖励的形式和来源各不相同。因此，有多种年利率。 您可以同时获得所有优惠和奖励，因此综合年利率将是所有年利率的总和。 请注意，veCAKE 的许多其他好处无法以年度收益率的形式量化，例如农场助推器 bCAKE 或 IFO iCAKE。也请务必查看。&#x20;
+
+锁定 CAKE 后您可以获得 veCAKE 数值。持有 veCAKE 数值可以通过 PancakeSwap 建立的一系列产品，来获得一系列多种巨大的福利。
+
+\
+Locking CAKE to get veCAKE provides a number of great benefits around the suite of products built by PancakeSwap. Benefits and incentives come in different forms and from different sources. Therefore, there are multiple APRs.
+
+You can earn all of them concurrently therefore the combined APR will be the sum of all the APRs.
+
+Please note that many other benefits from veCAKE can not be quantified in the format of APRs, such as [Farm Yield Booster bCAKE](https://docs.pancakeswap.finance/products/yield-farming/bcake), or [IFO iCAKE](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/icake). Be sure to check those out too.
+
+什么是 veCAKE 奖池年利率？\
+**What is veCAKE Pool APR?**
+
+这是来自 CAKE 排放的奖励，其比率由 veCAKE Pool 表决器控制。 要增加该仪表的排放量，请查看仪表投票。\
+This is the incentive coming from CAKE emissions, with its rate controlled by the veCAKE Pool voting gauge.
+
+To increase the emission to this gauge, check out [Gauge Voting](https://docs.pancakeswap.finance/products/vecake/gauges-voting).
+
+什么是收入共享年利率？\
+**What is Revenue Sharing APR?**
+
+这是来自协议收入共享的激励，来自 DEX 产品中收取的交换费。 查看收益分享，了解更多信息。 上一页 激励流动性\
+This is the incentive coming from protocol revenue sharing, coming from swap fees collected in DEX products.
+
+Check out [Revenue Sharing](https://docs.pancakeswap.finance/products/revenue-sharing) for more info.
+
+[PreviousIncentivizing Liquidity](https://docs.pancakeswap.finance/products/vecake/incentivizing-liquidity)[\
+](https://docs.pancakeswap.finance/products/syrup-pool)
+
+&#x20; &#x20;

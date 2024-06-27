@@ -21,7 +21,7 @@
 
 第 4 步：厨房将进行审查，如果没有问题将会添加此 Gauge
 
-第 5 步：如果某个 Gauge 怀有恶意或对 PancakeSwap 生态系统有害，PancakeSwap 核心团队可以 [拒绝/移除该 Gauge](../../zhi-li-dai-bi-jing-ji/zhi-li-xin.md)。&#x20;
+第 5 步：如果某个 Gauge 怀有恶意或对 PancakeSwap 生态系统有害，PancakeSwap 核心团队可以 [拒绝/移除该 Gauge](../../zhi-li-dai-bi-jing-ji/zhi-li-xin/)。&#x20;
 
 第 6 步：一旦 Gauge 添加完成，veCAKE 持有者可在同一投票轮次内，开始向此 Gauge 投票。&#x20;
 

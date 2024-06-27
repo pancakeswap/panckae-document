@@ -1,5 +1,19 @@
 # 给开发者们
 
-{% hint style="info" %}
-此处**给开发者们章节**的讯息是**旧版**，并且之后不会进行**更新。**新版请前往[https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/) 以获取包括 V4 的开发者所需的相关讯息。
-{% endhint %}
+以下是这个章节的所有文章：
+
+{% content-ref url="../code/contributing/" %}
+[contributing](../code/contributing/)
+{% endcontent-ref %}
+
+{% content-ref url="../code/bug-shang-jin.md" %}
+[bug-shang-jin.md](../code/bug-shang-jin.md)
+{% endcontent-ref %}
+
+{% content-ref url="../code/smart-contracts-bsc.md" %}
+[smart-contracts-bsc.md](../code/smart-contracts-bsc.md)
+{% endcontent-ref %}
+
+{% content-ref url="../code/smart-contracts-aptos.md" %}
+[smart-contracts-aptos.md](../code/smart-contracts-aptos.md)
+{% endcontent-ref %}

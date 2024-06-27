@@ -32,7 +32,7 @@
 
 [如何设置个人资料NFT头像](../products/nft-ge-ren-dang-an-xi-tong/)
 
-[如何投票](../products/voting/)
+[如何投票](../zhi-li-dai-bi-jing-ji/voting.md)
 
 查看以上菜单以获取有关 PancakeSwap 功能和服务的更多文档，包括更高级的指南。
 

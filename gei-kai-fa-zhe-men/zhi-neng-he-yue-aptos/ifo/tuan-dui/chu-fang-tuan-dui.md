@@ -18,7 +18,7 @@
 
 🐰 Chef Maroon - 商务开发
 
-🐰 Chef Lava - 商务开发
+🐰 Chef Baby - 商务开发
 
 🐰 Chef Mustard-运维技术([Twitter](https://twitter.com/chef\_mustard))
 
@@ -35,8 +35,6 @@
 🐰 Chef Yogi- 前端开发
 
 🐰 Chef Jackson - 前端开发 ([Twitter](https://twitter.com/0xchefjackson))
-
-🐰 Chef Philip - 前端开发
 
 🐰 Chef Bingbong -  前端开发
 

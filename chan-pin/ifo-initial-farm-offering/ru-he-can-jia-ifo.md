@@ -16,11 +16,11 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 要创建个人资料，您可以在此处按照我们的如何设置 NFT 个人资料[指南](../../products/nft-ge-ren-dang-an-xi-tong/ru-he-she-zhi-nft-ge-ren-zi-liao.md)进行操作。
 
-### 在 CAKE 定期质押糖浆池中质押 CAKE 以获得 iCAKE
+### 质押 CAKE 成 veCAKE 以获得 iCAKE
 
-您的 iCAKE 数值决定了您在 PancakeSwap IFO 公开销售中能投入的最大 CAKE 数量。 例如，如果您有 200 个 iCAKE 数值，您将能够在任何即将到来的 IFO 公开销售中投入 200 个 CAKE。 您的 iCAKE 数值是根据您在 CAKE 定期质押池中质押的 CAKE 数量，和您当前定期质押仓位的总质押时长，计算得出的。&#x20;
+CAKE 决定 PancakeSwap IFO 公开销售中的最大 CAKE 提交限额。例如，如果您有 200 个 iCAKE，您就可以在任何即将到来的 IFO 公开销售中投入 200 个 CAKE。您的 iCAKE 数量基于每个 IFO 结束时的 veCAKE 余额乘以预定义的比率。&#x20;
 
-要获得 iCAKE，请转到此处的[ IFO 页面](https://pancakeswap.finance/ifo)。 找到 CAKE 定期质押糖浆池，然后点击 “Stake CAKE” 下的 “Locked” 继续。&#x20;
+要获得 veCAKE，请转到此处的 [CAKE staking 页面](https://pancakeswap.finance/cake-staking)。 根据指示设置一个 vecake 仓位。
 
 要了解有关 iCAKE 以及如何计算 iCAKE 的更多信息，请查看此处的[文档](../../products/ifo-initial-farm-offering/icake.md)。
 

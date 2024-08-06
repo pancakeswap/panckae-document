@@ -6,7 +6,7 @@ Create a personalized profile on PancakeSwap to share your personality with the 
 
 Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special PancakeSwap team events.\
 \
-**This process will cost a total of 1.5 CAKE.**
+**This process will cost 1 CAKE. For PancakeSwap Quest users, it will cost 0 CAKE but require some gas fees. However, Quest users will get a generic NFT.**
 
 ![](<../../../.gitbook/assets/image (100).png>)
 

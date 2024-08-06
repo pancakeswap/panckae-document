@@ -15,9 +15,11 @@
        <figure><img src="../../.gitbook/assets/unnamed (7).png" alt=""><figcaption></figcaption></figure>
 
        <figure><img src="../../.gitbook/assets/unnamed (6).png" alt="" width="375"><figcaption></figcaption></figure>
-3.  Follow the steps on the profile setup screen or refer to the make profile guide here [profile-guide.md](../nft-market/nft-profile-system/profile-guide.md "mention"). A small amount of gas on BNB Chain is required to setup profiles.
+3.  Follow the steps on the profile setup screen or refer to the make profile guide here[profile-guide.md](../nft-market/nft-profile-system/profile-guide.md "mention"), from step 7. onwards. The setup is free, however a small amount of gas on the BNB Chain is required to set up profiles.
 
-    <figure><img src="../../.gitbook/assets/unnamed (5).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/unnamed (5).png" alt="" width="375"><figcaption><p>Choose the Bunny - A generic starter bunny for your quest journey</p></figcaption></figure>
+
+
 4. Once the profile is created, users can choose to link their social media accounts. Not that not all quests require social verification.&#x20;
    1.  Select the “Settings” button on the profile page
 

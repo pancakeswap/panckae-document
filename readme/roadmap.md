@@ -4,7 +4,7 @@ description: '"Don''t call it a roadmap"'
 
 # Roadmap
 
-_Updated on April 5, 2024_
+_Updated on August 15, 2024_
 
 ### Finally, it's a roadmap not a to-do list.
 
@@ -14,19 +14,17 @@ Pivoting is a way of life.
 
 That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-<figure><img src="../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
 Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
-{% endhint %}
 
-### Cooking in Q2
+<figure><img src="../.gitbook/assets/telegram-cloud-photo-size-5-6100658967458988041-y.jpg" alt=""><figcaption></figcaption></figure>
+
+### Cooking in Q3
 
 * v4
 * DEX: New Trading Venue
-* Crosschain veCAKE
+* Crosschain veCAKE Expansion
 * Web3 Quest Platform
-* TWAP/Limit orders + Fee switch
+* UI/UX Revamp
 * Multichain Simple Staking
 
 ### Done

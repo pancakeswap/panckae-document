@@ -133,6 +133,7 @@
     * [🎓 Pancake Mayer](chan-pin/you-xi-ping-tai/pancake-shi-chang.md)
     * [🛡️ Pancake Protectors 游戏](chan-pin/you-xi-ping-tai/pancake-protectors-you-xi/README.md)
       * [FAQ](chan-pin/you-xi-ping-tai/pancake-protectors-you-xi/faq.md)
+  * [🎯 PancakeSwap 任务平台](chan-pin/pancakeswap-ren-wu-ping-tai.md)
   * [🧈 交易返利](chan-pin/jiao-yi-fan-li/README.md)
     * [如何参与](chan-pin/jiao-yi-fan-li/ru-he-can-yu/README.md)
       * [顶级交易者交易返利活动](chan-pin/jiao-yi-fan-li/ru-he-can-yu/ding-ji-jiao-yi-zhe-jiao-yi-fan-li-huo-dong.md)

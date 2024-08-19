@@ -6,7 +6,7 @@ description: '"别把它称作路线图"'
 
 <figure><img src=".gitbook/assets/Roadmap01.webp" alt=""><figcaption></figcaption></figure>
 
-更新于 2024 年 4 月 5 日。
+更新于 2024 年 8 月 15 日。
 
 ### 这是一个路线图，而不是待办事项列表
 
@@ -16,7 +16,9 @@ description: '"别把它称作路线图"'
 
 这代表着我们不会公开承诺一个具体的时间表，因此，我们可以根据市场变化和开发者资源来组织我们的开发重点。
 
-<figure><img src=".gitbook/assets/Q2 roadmap 01.png" alt=""><figcaption></figcaption></figure>
+出于安全和保密的考虑，有些项目不包括在 “烹饪中 ”部分。
+
+<figure><img src=".gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 出于安全和保密的考虑，某些项目未包含在 "烹饪中" 部分中。
@@ -24,13 +26,13 @@ description: '"别把它称作路线图"'
 
 
 
-### Q2 烹饪中
+### Q3 烹饪中
 
 * v4
 * DEX：增加新的交易功能（New Trading Venue）
 * veCAKE 功能跨链
 * Web 3 任务平台（Web3 Quest Platform）
-* TWAP/限价单+费用开关 （Limit orders + Fee switch）
+* UI/UX 改进
 * 多链赚币
 
 
@@ -99,9 +101,6 @@ description: '"别把它称作路线图"'
   BNB 和 CAKE 双币种 \
   使用 Chainlink 价格图表和 Chainlink Keepers
 * 团队竞赛（交易大赛商品化）
-* 糖浆彩票 \
-  通过质押来参与彩票 \
-  每个月一个新的糖浆彩票组
 * 多链预测
 
 #### NFT

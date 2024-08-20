@@ -1,6 +1,6 @@
 # 🎯 PancakeSwap 任务平台
 
-<figure><img src="../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
 
 PancakeSwap Quest（测试版）是一个 DeFi 任务平台，允许用户在 PancakeSwap 上探索、赚取和参与 DeFi 产品。该平台提供游戏化体验，让新老用户都能与 PancakeSwap 和不同区块链上的合作伙伴产品互动。
 

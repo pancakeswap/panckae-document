@@ -1,7 +1,5 @@
 # 🎟️ Lottery
 
-![](../../.gitbook/assets/lottery-v2-header.png)
-
 Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
 
 [View smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
@@ -17,9 +15,9 @@ Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's
 
 Lottery ticket prices are set at the start of the new lottery round, and target $5 USD (may vary slightly with sudden price fluctuations).
 
-Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 4.95% at 100 tickets.
+Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 10% at 100 tickets.
 
-![](<../../.gitbook/assets/image (107).png>)
+![](<../../.gitbook/assets/Screenshot 2024-08-22 at 9.59.52 PM.png>)
 
 ## **How to win**
 

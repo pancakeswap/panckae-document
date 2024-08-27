@@ -117,7 +117,7 @@ In this step, you will stake your freshly added V3 liquidity positions to the ne
 
 Click each of the “Stake” buttons on the position to stake them into farms. Your wallet will ask for confirmation.
 
-For a more detailed tutorial on how to farm in V3, read [here](../../products/yield-farming/how-to-use-farms.md#farm-v3).
+For a more detailed tutorial on how to farm in V3, read [here](../../products/yield-farming/how-to-use-farms/#farm-v3).
 
 If you have questions while staking liquidity in V3 farms, check here for [FAQ](../../products/yield-farming/faq.md).
 

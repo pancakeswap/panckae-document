@@ -40,4 +40,4 @@ For adding your liquidity to V3 and staking LP positions to V3, follow the stand
 
 For a detailed tutorial on how to add liquidity in V3, read [here](../../products/pancakeswap-exchange/liquidity-guide.md).&#x20;
 
-For a tutorial on how to farm in V3, read [here](../../products/yield-farming/how-to-use-farms.md).
+For a tutorial on how to farm in V3, read [here](../../products/yield-farming/how-to-use-farms/).

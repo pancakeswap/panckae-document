@@ -1,6 +1,6 @@
 # veCAKE Managers
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 veCAKE is not just a product, but an ecosystem.&#x20;
 

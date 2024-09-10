@@ -42,7 +42,7 @@ Done, you just successfully cast your vote.
 {% tab title="Check the voting power" %}
 Before casting your vote, you will see a "Confirm Vote" window.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 In this window, you can double-check the following items:
 

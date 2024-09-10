@@ -1,16 +1,16 @@
 # Bridge your veCAKE
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 To enjoy the benefits of veCAKE such as bCAKE (Farm yield boosting) and iCAKE (IFO public sales allocation) on other chains. You need to perform a simple bridging request on BNB Chain to sync your veCAKE balance and PancakeProfile to other chains.
 
 ## How to bridge? <a href="#id-734b8113-0e00-40ff-bccb-9c129460e2e2" id="id-734b8113-0e00-40ff-bccb-9c129460e2e2"></a>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Go to [CAKE Staking](https://pancakeswap.finance/cake-staking) page and locate the veCAKE Sync card under the veCAKE benefits. Click “View Details” to open the sync modal.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
 
 In the modal. You can view the number of veCAKE you have on BNB Chain. As well as the list of destination chains, you may bridge your veCAKE and Pancake Profile to your veCAKE and Pancake Profile status on each of the chains.
 
@@ -35,7 +35,7 @@ For Pancake Profile and its NFT. You will need to perform two syncs to participa
 
 **Q: How long does the bridging take?**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="253"><figcaption></figcaption></figure>
 
 Depending on the destination chains. It usually takes around 2-5 mins to bridge and fully sync. For some slower chains, it could take up to 30 mins. To track your bridging request, check the sync modal for the LayerZero explorer link. Or head to [https://layerzeroscan.com/](https://layerzeroscan.com/) and search via the BNB Chain tx id.
 

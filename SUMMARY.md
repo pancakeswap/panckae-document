@@ -144,6 +144,7 @@
     * [交易返利 FAQ](chan-pin/jiao-yi-fan-li/jiao-yi-fan-li-faq.md)
   * [🔮 预测](products/yu-ce.md)
     * [如何使用预测功能](products/yu-ce/ru-he-shi-yong-yu-ce-gong-neng.md)
+    * [AI 预测](chan-pin/yu-ce/ai-yu-ce.md)
     * [预测功能 FAQ](products/yu-ce/yu-ce-gong-neng-faq.md)
     * [预测功能故障排除](products/yu-ce/yu-ce-gong-neng-gu-zhang-pai-chu.md)
   * [🎟️ 彩票 v2](products/lottery.md)

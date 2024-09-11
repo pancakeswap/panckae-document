@@ -135,6 +135,7 @@
     * [AI Prediction](products/prediction/ai-prediction.md)
     * [Prediction FAQ](products/prediction/prediction-faq.md)
     * [Prediction Troubleshooting](products/prediction/prediction-troubleshooting.md)
+    * [Prediction Mini App](products/prediction/prediction-mini-app.md)
   * [🎮 Gaming Platform](products/gaming-platform/README.md)
     * [📒 Brand Kit](products/gaming-platform/brand-kit.md)
     * [🎓 Pancake Mayor](products/gaming-platform/pancake-mayor.md)

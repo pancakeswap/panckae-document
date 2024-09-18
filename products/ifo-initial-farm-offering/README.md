@@ -34,7 +34,19 @@ Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find
 
 ## How to participate in a CrossChain IFO
 
-(coming soon)
+Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find out more about IFOs.
+
+It only takes a few extra steps to participate in a CrossChain IFO than a regular BNB Chain one.
+
+**Before Sale:**
+
+1. Sync your veCAKE to the destination chain where the crosschain IFO is being conducted.
+
+**During Sale:**
+
+1. (Optional) If you increased your veCAKE balance mid-IFO, you will need to sync again.
+
+Learn more about [how to participate in a crosschain IFO](./#how-to-participate-in-a-crosschain-ifo).
 
 ## **What is the “Overflow” sale method?** <a href="#overflow" id="overflow"></a>
 

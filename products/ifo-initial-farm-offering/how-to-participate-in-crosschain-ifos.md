@@ -55,7 +55,7 @@ Once the IFO page has been updated to showcase the latest IFO event, you may sta
 The following tutorial will use Arbitrum as an example.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (369).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (377).png" alt="" width="375"><figcaption></figcaption></figure>
 
 When viewing the IFO page on Arbitrum, if you have already completed the steps on BNB Chain, such as creating a profile and getting veCAKE. You will see the above notice. Simply click the button to switch network to bridge your veCAKE and Pancake Profile.
 

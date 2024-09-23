@@ -40,15 +40,15 @@ PancakeSwap 现在支持使用信用卡、借记卡（签帐卡）或银行转�
 
 3. 点击 "获取报价（Get Quote）"
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 4. 从推荐的报价中择一
 
-![](<../.gitbook/assets/image (10).png>)![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (10).png>)![](<../.gitbook/assets/image (7) (1).png>)
 
 5. 根据屏幕上，按照提供商提供的步骤继续操作。
 
-![](<../.gitbook/assets/image (11).png>)![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (11).png>)![](<../.gitbook/assets/image (8) (1).png>)
 
 6. 您购买的加密货币应该会在几分钟内到达钱包。
 

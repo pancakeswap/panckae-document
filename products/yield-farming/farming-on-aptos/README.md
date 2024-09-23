@@ -10,7 +10,7 @@ description: 通过在 Aptos 上参与农场获得同样美味的 CAKE 奖励
 
 查看[此章节](../../yield-farming.md)以了解更多关于农场的信息。
 
-我们设计的产品在不同的区块链上用户的体验是一致的。因此，如果你是 BSC上的忠实农场用户，在 Aptos 上参与农场时，你会有轻车熟路的感觉。如果你是流动性挖矿的新手，请查看我们的[如何使用农场](../ru-he-shi-yong-nong-chang.md)指南以学习如何使用。
+我们设计的产品在不同的区块链上用户的体验是一致的。因此，如果你是 BSC上的忠实农场用户，在 Aptos 上参与农场时，你会有轻车熟路的感觉。如果你是流动性挖矿的新手，请查看我们的[如何使用农场](../../../chan-pin/yield-farming/ru-he-shi-yong-nong-chang/ru-he-shi-yong-nong-chang-jiu-ban-nong-chang-ye-mian.md)指南以学习如何使用。
 
 要了解更多，关于如何在 BSC 和 Aptos 之间将你的资产和 CAKE 进行跨链。请查看[ CAKE 跨链指南](../../../chan-pin/kua-lian/evm-lian-yu-aptos-zhi-jian-kua-lian.md)。
 

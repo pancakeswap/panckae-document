@@ -5,7 +5,7 @@
 由于它需要几个步骤，因此通过 Bscscan 调用农场合约乍一看似乎令人生畏。本指南将引导您直接通过 BscScan 调用农场合约。
 
 {% hint style="warning" %}
-请理解，我们不建议初学者使用 BscScan 与合约交互。如果您没有信心，我们建议您改用学习[如何使用农场指南](../products/yield-farming/ru-he-shi-yong-nong-chang.md)。
+请理解，我们不建议初学者使用 BscScan 与合约交互。如果您没有信心，我们建议您改用学习[如何使用农场指南](../chan-pin/yield-farming/ru-he-shi-yong-nong-chang/ru-he-shi-yong-nong-chang-jiu-ban-nong-chang-ye-mian.md)。
 {% endhint %}
 
 ## 查找农场进程标识符
@@ -112,11 +112,11 @@
 
 5.检查信息，然后单击"**Write**"写入。在 MetaMask 中确认您的操作。
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6.您可以通过点击**查看您的交易**来确认您的操作是否成功。
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何从质押池中取款
 
@@ -142,11 +142,11 @@
 
 ​​5.检查信息，然后单击"**Write**"写入。 在 MetaMask 中确认您的操作。
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ​6.您可以通过点击**查看您的交易**来确认您的操作是否成功。​
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何进行紧急提款 <a href="#cong-chi-zhong-qu-kuan" id="cong-chi-zhong-qu-kuan"></a>
 
@@ -172,8 +172,8 @@ PancakeSwap 团队强烈建议避免使用此功能，除非 PancakeSwap 团队�
 
 4.检查信息，然后单击"**Write**"写入。 在 MetaMask 中确认您的操作
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p><br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p><br></p></figcaption></figure>
 
 5.您可以通过点击**查看您的交易**来确认您的操作是否成功。​
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>

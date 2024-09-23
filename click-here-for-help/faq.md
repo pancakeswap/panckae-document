@@ -39,7 +39,7 @@ CAKE.农场流动性挖矿稍加复杂，并且需要 LP（流动性）凭证来
 
 ## 我该怎样进行农场流动性挖矿？
 
-请查看我们的 [农场挖矿指南 ](../chan-pin/yield-farming/ru-he-shi-yong-nong-chang/ru-he-shi-yong-nong-chang-jiu-ban-nong-chang-ye-mian.md)了解更多信息。
+请查看我们的 [农场挖矿指南 ](../products/yield-farming/ru-he-shi-yong-nong-chang.md)了解更多信息。
 
 ## 我在哪里可以找到 PancakeSwap 的发展路线图？
 

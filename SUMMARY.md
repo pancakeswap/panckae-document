@@ -89,6 +89,8 @@
     * [收入分成 FAQ](chan-pin/shou-ru-fen-cheng/shou-ru-fen-cheng-faq.md)
   * [🛍️ IFO (初次农场发行)](products/ifo-initial-farm-offering.md)
     * [如何参加 IFO](chan-pin/ifo-initial-farm-offering/ru-he-can-jia-ifo.md)
+    * [如何参与跨链 IFO?](chan-pin/ifo-initial-farm-offering/ru-he-can-yu-kua-lian-ifo.md)
+    * [FAQ](chan-pin/ifo-initial-farm-offering/faq.md)
     * [iCAKE](products/ifo-initial-farm-offering/icake.md)
     * [合约详情](products/ifo-initial-farm-offering/he-yue-xiang-qing.md)
   * [🌉 跨链](chan-pin/kua-lian/README.md)

@@ -4,9 +4,11 @@ description: 只需要一次点击就能简单地添加流动性
 
 # Zap- 一键添加流动性 (V2)
 
+
+
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/zap1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -24,7 +26,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/启用 zap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/启用 zap.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,11 +38,11 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 访问[流动性页面](https://pancakeswap.finance/liquidity)，并选择 "**添加流动性**"。
 
-选择两个输入代币来挑选你想提供流动性的交易对，查看[流动性指南](../../chan-pin/pancakeswap-exchange/tian-jia-yi-chu-liu-dong-xing.md)以了解更多。
+选择两个输入代币来挑选你想提供流动性的交易对，查看[流动性指南](../tian-jia-yi-chu-liu-dong-xing.md)以了解更多。
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/zap 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -50,7 +52,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/zap 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +62,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/zap 3.png" alt=""><figcaption><p>、</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 3.png" alt=""><figcaption><p>、</p></figcaption></figure>
 
 </div>
 
@@ -70,7 +72,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/zap 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -80,7 +82,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/zap 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -101,7 +103,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/zap 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 7.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -116,6 +118,6 @@ Zap 也能让您在移除流动性时只接收交易对中的其中一种代币�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/zap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap.png" alt=""><figcaption></figcaption></figure>
 
 </div>

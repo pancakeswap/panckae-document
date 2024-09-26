@@ -4,8 +4,6 @@ description: Entry points and references for legacy products
 
 # 📂 Legacy Products
 
-* [Gaming Marketplace](https://pancakeswap.games/)
-* [NFT Marketplace](https://pancakeswap.finance/nfts)
 * [Pottery](https://pancakeswap.finance/pottery)
 * [Liquid Staking](https://pancakeswap.finance/liquid-staking)
 * [Simple Staking](https://pancakeswap.finance/simple-staking)

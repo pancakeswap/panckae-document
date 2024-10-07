@@ -2,8 +2,6 @@
 
 ![](../.gitbook/assets/customer-support-header.png)
 
-## There is NO customer support for PancakeSwap.
-
 If you're experiencing issues,
 
 1. First check [the troubleshooting page](../readme/help/troubleshooting.md) for your error code

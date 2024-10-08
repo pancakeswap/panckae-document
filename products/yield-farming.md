@@ -4,7 +4,7 @@
 
 PancakeSwap农场让用户们通过质押 LP 代币（流动性凭证）来支持 PancakeSwap 并赚取 CAKE 代币。
 
-查看 [如何使用农场指南 ](yield-farming/ru-he-shi-yong-nong-chang.md)立刻开始流动性挖矿。
+查看 [如何使用农场指南 ](../chan-pin/yield-farming/ru-he-shi-yong-nong-chang/ru-he-shi-yong-nong-chang-jiu-ban-nong-chang-ye-mian.md)立刻开始流动性挖矿。
 
 附加资讯：[如何找到农场智能合约](https://docs.pancakeswap.finance/products/yield-farming)
 

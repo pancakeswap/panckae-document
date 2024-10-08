@@ -10,7 +10,7 @@ description: 通过在其他区块链上耕作获得同样可口的 CAKE 奖励
 
 查看[主章节](../../yield-farming.md)以了解有关农场的更多信息。&#x20;
 
-查看我们的[如何使用农场指南](../ru-he-shi-yong-nong-chang.md)以开始耕种。
+查看我们的[如何使用农场指南](../../../chan-pin/yield-farming/ru-he-shi-yong-nong-chang/ru-he-shi-yong-nong-chang-jiu-ban-nong-chang-ye-mian.md)以开始耕种。
 
 {% hint style="warning" %}
 农场与糖浆池相比，会给予更高的奖励，但同时它们拥有**无常损失**带来的风险。它并没有听起来那么可怕，但在开始耕种前，适当的去了解它是值得的。

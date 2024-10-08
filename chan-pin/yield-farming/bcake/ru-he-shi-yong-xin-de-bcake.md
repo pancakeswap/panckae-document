@@ -46,7 +46,7 @@
 * V2 和 StableSwap 农场：点击 "add LP （添加 LP）"，将您的 LP 代币质押进农场。&#x20;
 * 仓位管理工具：通过点击 "添加流动性" 来添加流动性。&#x20;
 
-要了解更多关于农场的知识，请查看本[教程](../../../products/yield-farming/ru-he-shi-yong-nong-chang.md)。
+要了解更多关于农场的知识，请查看本[教程](../ru-he-shi-yong-nong-chang/ru-he-shi-yong-nong-chang-jiu-ban-nong-chang-ye-mian.md)。
 
 #### 激活 bCAKE
 

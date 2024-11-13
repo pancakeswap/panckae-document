@@ -10,11 +10,9 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Bun - Product Manager, 不是饺子 ([Twitter](http://twitter.com/chef\_bun\_pcs))
 
-🐰 Chef Gyoza - Product Manager ([Twitter](https://twitter.com/ChefGyoza))
-
 🐰 Chef Momo - Product Manager
 
-🐰 Chef Chili - Business Dev
+🐰 Chef Chili - Ops & BD Lead
 
 🐰 Chef Maroon - Business Dev ([Twitter](https://x.com/ChefMaroon))
 
@@ -26,6 +24,8 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Jackson - Dev Lead ([Twitter](https://x.com/0xchefjackson))
 
+🐰 Chef Ryan - Frontend Dev Lead
+
 🐰 Chef Momota - Frontend Dev ([Twitter](https://twitter.com/chefmomota))
 
 🐰 Chef Yogi- Frontend Dev
@@ -34,11 +34,9 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Jerry - Frontend Dev
 
-🐰 Chef Bingbong - Frontend Dev
-
 🐰 Chef Penguin - Frontend Dev
 
-🐰 Chef Huan - Backend Lead Dev
+🐰 Chef Huan - Backend Dev Lead
 
 🐰 Chef Cannoli - Backend Dev
 
@@ -58,7 +56,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Burger - Solidity Dev
 
-🐰 Chef Mist - Solidity Dev
+🐰 Chef Mist - Solidity Dev Lead
 
 🐰 Chef Ruby - QA
 

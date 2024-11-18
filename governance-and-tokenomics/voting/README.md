@@ -10,7 +10,7 @@ veCAKE holders have voting rights in PancakeSwap’s governance system. These ar
 
 1. \[Core] High-level CAKE emission adjustments (allocating CAKE to Core Pools and other high-level categories)
 2. \[Core] Protocol adjustments (product changes, fee changes)
-3. \[Core] Multichain warchest spending
+3. \[Core] Use of Ecosystem Growth funds
 4. Regular gauges voting (every 2 weeks)
 
 **Core** topics must be voted on by veCAKE holders, but can only be proposed by the PancakeSwap Core Team. The result of a Core proposal will be actioned by the PancakeSwap team.

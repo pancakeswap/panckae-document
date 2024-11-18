@@ -1,6 +1,6 @@
 # CAKE Tokenomics
 
-<figure><img src="../../.gitbook/assets/231218-en (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
 ## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -38,18 +38,16 @@ As well as the above, CAKE is also burned in the following ways:
 
 * **0.001\~0.23%** of every trade made on Exchange V3 (on all our chain deployments less Aptos)
 * **0.0575%** of every trade made on Exchange V2 (on all our chain deployments)
-* **0.004%\~0.016%** of every trade made on StableSwap
-* **100%** of CAKE sent to the Dev address
+* **0.004%\~0.02%** of every trade made on StableSwap
+* **20%** of all profits from Perpetual Trading
 * **100%** of CAKE performance fees from IFOs
 * **100%** of CAKE spent on Profile Creation and NFT minting
 * **100%** of CAKE bid by winners during Farm Auctions
+* **2%** of every NFT sale on the NFT Market is used to buy CAKE for burning
 * **20%** of CAKE spent on lottery tickets
-* **20%** of all profits from Perpetual Trading
-* **8%** of the Pottery prize pot distributed each week
 * **3%** of every BNB Prediction markets round is used to buy CAKE for burning
 * **3%** of every CAKE Prediction markets round
-* **2%** of every yield harvest from all the flexible staking positions in CAKE pool
-* **2%** of every NFT sale on the NFT Market is used to buy CAKE for burning
+* **80%** of the revenue from .cake domain name sales
 
 ## Why is the CAKE burn manual?
 

@@ -178,6 +178,7 @@
     * [CLAMM Options](products/options/clamm-options.md)
     * [FAQ](products/options/faq.md)
   * [📂 Legacy Products](products/legacy-products.md)
+* [Page](page.md)
 * [Governance & Tokenomics](governance-and-tokenomics/README.md)
   * [CAKE Tokenomics](governance-and-tokenomics/cake-tokenomics/README.md)
     * [Controlling CAKE supply](governance-and-tokenomics/cake-tokenomics/controlling-cake-supply.md)

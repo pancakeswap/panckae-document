@@ -14,18 +14,15 @@ Zap is a feature that allows you to add liquidity with ease. With Zap, you can p
 
 For now, Zap only supports:
 
-* On certain liquidity pairs (more is coming)
-
-{% hint style="info" %}
-USDT-WBNB 0.05%, USDT-USDC 0.05%, USDT-USDC 0.01%, ETH-BTCB 0.25%, USDT-BTCB 0.05%, Cake-WBNB 0.25%, BTCB-WBNB 0.05%, ETH-BTCB 0.05%, Cake-USDT 0.25%, USDT-WBNB 0.01%, ETH-WBNB 0.05%, USDT-BNX 0.05%, USDT-BUSD 0.01%, ETH-WBNB 0.25%, BTCB-WBNB 0.25%, SOL-WBNB 0.25%, ETH-USDT 0.05%, TUSD-USDT 0.01%, USDC-WBNB 0.01%, XRP-WBNB 0.25%
-{% endhint %}
-
-* Single token input
-* On BNB Chain
+* 🆕 Any token!
+* Using single token
+* 🆕 Using duo tokens
+* 🆕 Or... using multiple tokens (yes it's can be used like dust collector)
+* And on BNB Chain (more network is coming)
 
 #### Start <a href="#e43d56cd-978e-4503-8b7a-974428d4142c" id="e43d56cd-978e-4503-8b7a-974428d4142c"></a>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 To use Zap, simply go to Add V3 Liquidity page, select the trading pair you want to provide liquidity to, fee tier, and the price range.
 
@@ -37,12 +34,12 @@ Click the link to bring up the V3 Zap modal.
 
 #### Initiate Zap <a href="#d65281e2-90db-4280-afd0-f24157c88a9b" id="d65281e2-90db-4280-afd0-f24157c88a9b"></a>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Within the new “Zap in” modal. You may find the following fields:
 
 1. The trading pair you are Zapping (providing liquidity) to.
-2. The deposit token and the amount to deposit. You may click the arrows to switch between two of the pool tokens.
+2. The deposit token(s) and the amount(s) to deposit. You may freely add in or remove any tokens for the Zap.
 3. The price range of the new position. You may also click the arrows to flip between different price displays.
 4. A detailed breakdown of how the Zap feature will handle your deposit tokens.
 5. A summary of the stats including:
@@ -53,13 +50,17 @@ Within the new “Zap in” modal. You may find the following fields:
    5. The price impact for the liquidity adding and position building.
    6. Zap fee. Depending on the liquidity pair, fee rate may vary.
 
+{% hint style="warning" %}
+Note that you may need to reconfigure the amount to Zap based on your available balance. If you don't have balance on one of the tokens, please remove them.
+{% endhint %}
+
 {% hint style="info" %}
 You may notice that the settings from “Add V3 Liquidity” are automatically carried to the Zap modal. Including the deposit amount and price range settings.
 {% endhint %}
 
 #### Start Zapping <a href="#id-6cc5fa08-d336-46d9-8fdd-199bcbae8267" id="id-6cc5fa08-d336-46d9-8fdd-199bcbae8267"></a>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Finally click “Approve” and confirm in the wallet popup for token allowance.
 
@@ -69,7 +70,7 @@ Finally, click “Add Liquidity” and confirm in your wallet popup.
 
 After the tx is confirmed, you shall see your shiny new position in “My Position” page
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### More Settings <a href="#id-217348b6-db9d-4336-9060-d8cbd8171cd9" id="id-217348b6-db9d-4336-9060-d8cbd8171cd9"></a>
 
@@ -85,3 +86,16 @@ If you want to further customise your Zap experience. Simply click the gear icon
 {% hint style="warning" %}
 Please note that the Slippage and Deadline settings are independent to the Swap and Liquidity page.
 {% endhint %}
+
+#### Zap in using duo tokens
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Now you may Zap in your liquidity with duo tokens. This is useful when your available balance is not matching with the price settings, and the required token amount and ratio it is calling for. Simply Zap, and the ratio will be automatically rebalanced.
+
+#### Zap in using many tokens
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Yes it works just like a dust token collector. It is suitable for cleaning up small balances in your wallet, and put them into a position to start earning from trading fees.&#x20;
+

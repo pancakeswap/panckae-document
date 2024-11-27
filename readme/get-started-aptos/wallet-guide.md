@@ -241,7 +241,7 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 
 > * Safely backup your recovery phrases. If you lose your recovery phrase, you may lose access to your wallet and the crypto within it forever.&#x20;
 > * **NEVER** share your recovery phrases with anyone, under any circumstances.
-> * **NEVER** input your recovery phrase to a website or app, other than your wallet app**.**
+> * **NEVER** input your recovery phrase to a website or app, other than your wallet ap&#x70;**.**
 
 <figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 

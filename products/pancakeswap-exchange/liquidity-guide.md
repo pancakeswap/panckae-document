@@ -89,7 +89,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 To remove liquidity.
 
-1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) page**.**
+1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) pag&#x65;**.**
 
 <figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
@@ -152,7 +152,7 @@ To remove liquidity.
 
 4\. Use the buttons or slider to choose how much liquidity you want to remove. Choose “MAX” to remove all of your liquidity from this pair.
 
-5\. Click “Enable”. Your wallet will ask you to sign the action**.**
+5\. Click “Enable”. Your wallet will ask you to sign the actio&#x6E;**.**
 
 6\. The “Remove” button will light up. Click to proceed.
 

@@ -1,5 +1,5 @@
 # Private RPC
 
-{% content-ref url="../products/pancakeswap-private-rpc/" %}
-[pancakeswap-private-rpc](../products/pancakeswap-private-rpc/)
+{% content-ref url="../products/pancakeswap-mev-guard/" %}
+[pancakeswap-mev-guard](../products/pancakeswap-mev-guard/)
 {% endcontent-ref %}

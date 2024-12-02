@@ -16,7 +16,7 @@ Available on BNB Chain.
 
 ### How to use?
 
-Visit [https://pancakeswap.fiannce/mev](https://pancakeswap.fiannce/mev) to learn more.
+Visit [https://pancakeswap.finance/mev](https://pancakeswap.finance/mev) to learn more.
 
 Or use the following info to add to your wallet manually:
 

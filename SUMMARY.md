@@ -265,7 +265,7 @@
     * [Frontend Engineer](team/become-a-chef/frontend-engineer.md)
     * [Solidity Engineer](team/become-a-chef/solidity-engineer.md)
     * [DevOps Engineer](team/become-a-chef/devops-engineer.md)
-    * [Senior Backend Engineer](team/become-a-chef/frontend-engineer-1.md)
+    * [Senior Backend Engineer](team/become-a-chef/senior-backend-engineer.md)
 * [Contact Us](contact-us/README.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/social-accounts-and-communities.md)

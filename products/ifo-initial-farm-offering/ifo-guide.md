@@ -42,7 +42,7 @@ And that’s it; you’re now ready to participate in an IFO when it goes live!
 
 ### **Knowing when an IFO will start**
 
-The IFO is a limited-time event; it usually only lasts one or two hours. You'll want to check the proposal in detail for the IFO timeframe to ensure you don’t miss out!
+The IFO is a limited-time event. You'll want to check the proposal / forum post in detail for the IFO timeframe to ensure you don’t miss out!
 
 #### Check the IFO page
 
@@ -56,7 +56,7 @@ The countdown and announcements will give you plenty of time to prepare.
 
 ## **Once the IFO is live**
 
-While an IFO is live, you will have 1 or 2 hours to participate. (check the IFO page progress bar and timer for more details) If you have done the steps above and have CAKE tokens in your wallet, it doesn’t take long at all to buy the new token.
+While an IFO is live, you will have limited time to participate. (check the IFO page progress bar and timer for more details) If you have done the steps above and have CAKE tokens in your wallet, it doesn’t take long at all to buy the new token.
 
 ### Checking if the IFO is live
 

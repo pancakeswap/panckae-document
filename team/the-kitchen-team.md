@@ -6,9 +6,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 ### The Chefs
 
-🐰 Chef Kids - Head Chef ([Twitter](https://x.com/Headchef\_pcs))
-
-🐰 Chef Bun - Product Manager, 不是饺子 ([Twitter](http://twitter.com/chef\_bun\_pcs))
+🐰 Chef Kids - Head Chef ([Twitter](https://x.com/Headchef_pcs))
 
 🐰 Chef Momo - Product Manager
 
@@ -18,15 +16,11 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Baby - Business Dev
 
-🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef\_mustard))
-
-🐰 Chef Seaweed - Data Analytics
+🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef_mustard))
 
 🐰 Chef Jackson - Dev Lead ([Twitter](https://x.com/0xchefjackson))
 
 🐰 Chef Ryan - Frontend Dev Lead
-
-🐰 Chef Momota - Frontend Dev ([Twitter](https://twitter.com/chefmomota))
 
 🐰 Chef Yogi- Frontend Dev
 
@@ -72,13 +66,13 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Cola - HR
 
-🐰 Chef Brownie - Marketing Lead ([Twitter](https://twitter.com/Chef\_Browniee))
+🐰 Chef Brownie - Marketing Lead ([Twitter](https://twitter.com/Chef_Browniee))
 
-🐰 Chef Oreo - Product Marketing  ([Twitter](https://twitter.com/Chef\_Oreoo))
+🐰 Chef Oreo - Product Marketing  ([Twitter](https://twitter.com/Chef_Oreoo))
 
-🐰 Chef Cocoa - Events and PR Marketing ([Twitter](https://x.com/chef\_cocoa\_pcs))
+🐰 Chef Cocoa - Events and PR Marketing ([Twitter](https://x.com/chef_cocoa_pcs))
 
-🐰 Chef Brie - Social Media Marketing ([Twitter](https://twitter.com/chef\_brie))
+🐰 Chef Brie - Social Media Marketing ([Twitter](https://twitter.com/chef_brie))
 
 🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Community Manager ([Twitter](https://twitter.com/ChefFranPS))
 

@@ -1,43 +1,32 @@
 # ❓ FAQs Page
 
-### **What are the requirements to become a PancakeSwap ambassador?**
+### **Who can apply to be a PancakeSwap Ambassador?**
 
-Requirements to become a PancakeSwap ambassador vary, but generally include having an active social media presence, experience in the cryptocurrency space, a good understanding of the PancakeSwap project and its features, and a passion for community building.
+Anyone who meets the requirements outlined in the document, including native in both English and the local language of the region they’re applying to, has business-level fluency in written and spoken communication, a strong understanding of PancakeSwap, and a genuine enthusiasm for community building.
 
-### **How do I apply to become a PancakeSwap ambassador?**
+### **Do I need prior experience in event planning or community management?**
 
-For the time being, we are not actively seeking new ambassadors. However, whenever a position becomes available, we will announce it. We highly appreciate the contributions to the community during your time as regular users, and we are always open to inviting individuals we deem suitable when opportunities arise.&#x20;
+While prior experience is a plus, it’s not required. We’ll provide all the guidance and support you need to succeed.
 
-Feel free to reach out if you have any questions or if you would like to be considered in the future.
+### **What is the time commitment for an Ambassador?**
 
-### **How long does the ambassador program last?**
+Time commitment will vary depending on your activities, but hosting events and engaging with your community will require an ongoing effort.
 
-There is no plan to have an ending date for the Ambassador Program, at least for the moment.&#x20;
+### **Will I receive resources to support my events?**
 
-### &#x20;**What are the benefits of being a PancakeSwap ambassador?**
+Absolutely! Our community team will provide you with onboarding materials, event planning support, and ongoing guidance.
 
-Ambassadors will be rewarded for their contributions and efforts. Join the PancakeSwap family and have fun!
+### **What rewards can I expect?**
 
-### **How is ambassador performance evaluated?**
+Rewards include financial compensation for completed tasks, exclusive PancakeSwap merchandise, and global recognition within the DeFi community.
 
-Ambassador performance is evaluated based on their level of engagement with the community, the quality of their content, and their ability to help grow the PancakeSwap ecosystem.
+### **How will interviews be conducted?**
 
+Interviews will be held online via video call, so make sure you’re ready to communicate effectively with an open camera.
 
+### **What happens if I’m selected?**
 
-### **How many ambassadors are selected for the program?**
+You’ll be onboarded into the PancakeSwap Ambassador Program, where you’ll get the support you need to host your first event and represent PancakeSwap in your community.
 
-The number of ambassadors selected for the program varies depending on the specific categories, moments, metrics, and other topics measured by PancakeSwap.
+###
 
-### &#x20;**How can I get support if I have questions or issues as an ambassador?**
-
-PancakeSwap Community Team will be there to help you in the process, so don’t worry!&#x20;
-
-### &#x20;**Can I apply for the ambassador program again in the future?**
-
-Yes, you can apply for the ambassador program again in the future if you meet the requirements and the program is still running.
-
-### &#x20;**Who is going to contact me in case I’m selected for the program?**&#x20;
-
-We will only contact profiles we’re interested in by Telegram PancakeSwap Ambassadors account (t.me/PancakeSwapAmbassadors). Be careful, no other account is official and it could be a SCAM 🚨
-
-\

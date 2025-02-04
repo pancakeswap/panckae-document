@@ -194,6 +194,7 @@
     * [Terms & Conditions](ecosystem-and-partnerships/affiliate-program/terms-and-conditions.md)
   * [Ambassador Program](ecosystem-and-partnerships/ambassador-program/README.md)
     * [What can you do as an Ambassador?](ecosystem-and-partnerships/ambassador-program/what-can-you-do-as-an-ambassador.md)
+    * [Benefits of  a PancakeSwap Ambassador](ecosystem-and-partnerships/ambassador-program/benefits-of-a-pancakeswap-ambassador.md)
     * [Want to be an Ambassador?](ecosystem-and-partnerships/ambassador-program/want-to-be-an-ambassador.md)
     * [❓ FAQs Page](ecosystem-and-partnerships/ambassador-program/faqs-page.md)
   * [Brand & Logos](ecosystem-and-partnerships/brand.md)

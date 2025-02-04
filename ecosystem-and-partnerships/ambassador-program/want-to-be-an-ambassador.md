@@ -16,7 +16,20 @@ We’re looking for passionate Ambassadors in key regions to help bring the Panc
 * **Taiwan** 🇹🇼
 * **Indonesia** 🇮🇩
 
+### **Requirements to Apply**
 
+We’re looking for Ambassadors who:
 
-[https://forms.gle/bV5Ju1BLkinU7sCZA](https://forms.gle/bV5Ju1BLkinU7sCZA)
+* Are fluent in **English** and the **native language** of the region you're applying to, with **business-level proficiency** in written and spoken communication.
+* Have a strong understanding of PancakeSwap, DeFi, and community-building.
+* Are proactive, reliable, and passionate about organizing events.
+* Have excellent communication and leadership skills to engage, inspire, and grow local communities.
+
+### **How to Apply & Selection Timeline**
+
+Ready to become a PancakeSwap Ambassador? Follow these steps to apply:
+
+1. **Complete the Application Form:**  [https://forms.gle/aqK61GiL1QjU7Tqb8](https://forms.gle/aqK61GiL1QjU7Tqb8)
+2. **Prepare for an Interview**: If shortlisted, we'll schedule a video interview to assess your communication skills and knowledge of PancakeSwap.
+3. **Get Onboarded:** If selected, you'll receive onboarding materials and support to help you plan your first local event.
 

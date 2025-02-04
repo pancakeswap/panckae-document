@@ -194,7 +194,6 @@
     * [Terms & Conditions](ecosystem-and-partnerships/affiliate-program/terms-and-conditions.md)
   * [Ambassador Program](ecosystem-and-partnerships/ambassador-program/README.md)
     * [👥Community Moderation Page](ecosystem-and-partnerships/ambassador-program/community-moderation-page.md)
-    * [🌎Community Translation Page](ecosystem-and-partnerships/ambassador-program/community-translation-page.md)
     * [❓ FAQs Page](ecosystem-and-partnerships/ambassador-program/faqs-page.md)
   * [Brand & Logos](ecosystem-and-partnerships/brand.md)
   * [💼 Business Partnerships](ecosystem-and-partnerships/business-partnerships/README.md)
